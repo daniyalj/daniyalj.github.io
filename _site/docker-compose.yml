@@ -1,0 +1,9 @@
+jekyll:
+    image: jekyll/jekyll:pages
+    command: jekyll serve --watch --drafts --incremental
+    ports:
+        - 4000:4000
+        - 35729:35729
+        - 80:4000
+    volumes:
+        - .:/srv/jekyll:Z
