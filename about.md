@@ -4,43 +4,50 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Consultant and Jack of all trades performing on-site and remote consulting services and support with specialization in Ansible automation of Linux or Windows infrastructure, foundational transformative tools including Red Hat Enterprise Linux and Satellite, Docker and CI/CD pipeline automation for customers ranging from Fortune 500 enterprises to startup companies.
 
-<h2>Skills</h2>
+In my spare time I like to present technical topics at conferences and meetups and actively contribute to the open source community</p>
+
+<h2>DevOps</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Ansible/Ansible Tower</li>
+	<li>OpenShift</li>
+	<li>Docker</li>
+	<li>CI/CD</li>
+	<li>Terraform</li>
+	<li>Vagrant</li>
+	<li>Red Hat Satellite</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Jenkins</li>
+	<li>Cloudforms</li>
+	<li>3Scale (API Management)</li>
 </ul>
+
+<h2>Development</h2>
+
+<ul class="skill-list">
+        <li>Python</li>
+        <li>GO</li>
+        <li>Java</li>
+        <li>C</li>
+        <li>YAML</li>
+        <li>HTML</li>
+        <li>JavaScript</li>
+</ul>
+
+<h2>OS</h2>
+
+<ul class="skill-list">
+        <li>RHEL 7</li>
+        <li>RHEL 6</li>
+        <li>RHEL 5</li>
+        <li>Windows Server 2008+</li>
+        <li>Containers</li>
+</ul>
+
 
 <h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Check out my projects on my <a href="https://github.com/daniyalj">GitHub</a>
