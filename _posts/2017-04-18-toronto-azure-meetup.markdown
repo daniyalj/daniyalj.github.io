@@ -14,4 +14,4 @@ author: daniyaljaved
 description: Toronto Azure Meetup Recap - From Code to Containers and Automated Pipelines on Azure
 ---
 
-Blah blah blah
+A blog I wrote over at Arctiq. Check it out <a href="https://www.arctiq.ca/our-blog/2017/4/17/azure-meetup-recap/">here</a>

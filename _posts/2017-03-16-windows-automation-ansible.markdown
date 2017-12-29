@@ -13,4 +13,4 @@ author: daniyaljaved
 description: Windows automation with Ansible
 ---
 
-Blah blah blah
+A blog I wrote over at Arctiq. Check it out <a href="https://www.arctiq.ca/our-blog/2017/3/16/ansible-tower-automate-windows-server/">here</a>
