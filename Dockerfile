@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:pages
+FROM ubuntu:latest
 ENV NAME sysadvent
 
 # Add multiverse repo. Install nginx, jekyll and some ruby-packages
