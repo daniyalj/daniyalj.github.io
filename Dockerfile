@@ -19,7 +19,6 @@ USER root
 # Run Jekyll. Put result in nginx defaul . t document root
 # Run Jekyll. Put result in nginx default document root
 RUN \
-  apt-get update && \
   bundle install --path=vendor && \
   bundle exec jekyll build --destination /var/www/html/sysadvent && \
   apt-get -y remove ruby-dev build-essential && \
