@@ -17,6 +17,7 @@ ADD . /build
 
 # Run Jekyll. Put result in nginx default document root
 RUN \
+  apt-get update && \
   gem install bundler && \
   bundle install && \
   bundle exec jekyll serve --config _config.yml,_config-dev.yml --destination /var/www/html/sysadvent && \
