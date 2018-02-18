@@ -16,7 +16,7 @@ WORKDIR /build
 ADD . /build
 
 USER root
-# Run Jekyll. Put result in nginx default document root
+# Run Jekyll. Put result in nginx defaul . t document root
 # Run Jekyll. Put result in nginx default document root
 RUN \
   apt-get update && \
