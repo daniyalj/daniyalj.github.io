@@ -8,7 +8,7 @@ tag:
 - space
 category: blog
 author: daniyaljaved
-description: A Pale Blue Dot
+#description: A Pale Blue Dot
 #jemoji: '<img class="emoji" title=":cyclone:" alt=":cyclone:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f300.png" height="20" width="20" align="absmiddle">'
 ---
 
