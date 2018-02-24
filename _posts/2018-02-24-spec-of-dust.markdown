@@ -2,7 +2,7 @@
 title: ":cyclone: A Pale Blue Dot"
 layout: post
 date: 2018-02-24 00:15
-image: /assets/images/spec.png
+image: /assets/images/spec.jpg
 headerImage: true
 tag:
 - space
