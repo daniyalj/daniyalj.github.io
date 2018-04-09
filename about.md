@@ -50,4 +50,4 @@ In my spare time I like to present technical topics at conferences and meetups a
 
 <h2>Projects</h2>
 
-Check out my projects on my <a href="https://github.com/daniyalj">GitHub</a>
+Check out my projects on <a href="https://github.com/daniyalj">GitHub</a>
